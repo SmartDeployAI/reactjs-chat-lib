@@ -1,0 +1,12 @@
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+dist/
+es/
+#lib/
+
+# dotenv environment variables file
+.env
+# idea
+/.idea
+#vscode
+/.vscode
+node_modules
